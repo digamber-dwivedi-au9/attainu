@@ -74,7 +74,7 @@ class Signup extends React.Component {
     this.setState(
       {
         [key]: {
-          ...this.state[key],
+          ...git this.state[key],
           value: value,
         },
       },
